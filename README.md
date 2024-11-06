@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-[README_KO.md](https://github.com/user-attachments/files/17642167/README_KO.md)
+<<<<<<< RANSAC 알고리즘을 통한 방 꼭짓점 보정 알고리즘
 =======
 
 # 포인트 클라우드를 활용한 방 꼭짓점 보정 알고리즘
